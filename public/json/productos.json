@@ -1,0 +1,123 @@
+[
+    {
+        "id": 1,
+        "idCategoria": 1,
+        "nombre": "Black Adam",
+        "marca": "Black Adam",
+        "modelo": "#1231",
+        "precio": 8400,
+        "stock": 30,
+        "img": "funko black adam.png"
+    },
+    {
+        "id": 2,
+        "idCategoria": 1,
+        "nombre": "The Flash",
+        "marca": "The Flash",
+        "modelo": "#1097",
+        "precio": 10700,
+        "stock": 20,
+        "img": "funko flash.png"
+    },
+    {
+        "id": 3,
+        "idCategoria": 4,
+        "nombre": "Spider-Girl",
+        "marca": "Marvel",
+        "modelo": "#955",
+        "precio": 9480,
+        "stock": 15,
+        "img": "funko spiderman.png"
+    },
+    {
+        "id": 4,
+        "idCategoria": 4,
+        "nombre": "Dr. Octopus",
+        "marca": "Marvel",
+        "modelo": "#957",
+        "precio": 7600,
+        "stock": 30,
+        "img": "funko octopus.png"
+    },
+    {
+        "id": 5,
+        "idCategoria": 4,
+        "nombre": "Scarlet Witch",
+        "marca": "Dr. Strange and the multiverse of madness",
+        "modelo": "#1034",
+        "precio": 10000,
+        "stock": 7,
+        "img": "funko scarlet witch.png"
+    },
+    {
+        "id": 6,
+        "idCategoria": 2,
+        "nombre": "Luke Skywalker",
+        "marca": "Star Wars",
+        "modelo": "#511",
+        "precio": 11100,
+        "stock": 20,
+        "img": "funko star wars.png"
+    },
+    {
+        "id": 7,
+        "idCategoria": 1,
+        "nombre": "Harley Quinn",
+        "marca": "Birds of Prey",
+        "modelo": "#303",
+        "precio": 5100,
+        "stock": 10,
+        "img": "funko harley.png"
+    },
+    {
+        "id": 8,
+        "idCategoria": 3,
+        "nombre": "Jolteon",
+        "marca": "Pokemon",
+        "modelo": "#628",
+        "precio": 7900,
+        "stock": 30,
+        "img": "funko jolteon.png"
+    },
+    {
+        "id": 9,
+        "idCategoria": 3,
+        "nombre": "Mew Two",
+        "marca": "Pokemon",
+        "modelo": "#583",
+        "precio": 14000,
+        "stock": 21,
+        "img": "funko mewtwo.png"
+    },
+    {
+        "id": 10,
+        "idCategoria": 3,
+        "nombre": "Vaporeon",
+        "marca": "Pokemon",
+        "modelo": "#627",
+        "precio": 7900,
+        "stock": 25,
+        "img": "funko vaporeon.png"
+    },
+    {
+        "id": 11,
+        "idCategoria": 1,
+        "nombre": "Wonder Woman",
+        "marca": "WW84",
+        "modelo": "#347",
+        "precio": 10400,
+        "stock": 30,
+        "img": "funko wonder woman.png"
+    },
+    {
+        "id": 12,
+        "idCategoria": 3,
+        "nombre": "Pikachu",
+        "marca": "Pokemon",
+        "modelo": "#598",
+        "precio": 10400,
+        "stock": 20,
+        "img": "funko pikachu.png"
+    }
+
+]
