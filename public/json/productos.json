@@ -7,7 +7,7 @@
         "modelo": "#1231",
         "precio": 8400,
         "stock": 30,
-        "img": "funko black adam.png"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-2022-faiella-emiliano.appspot.com/o/funko%20black%20adam.png?alt=media&token=433b53c3-9017-4a78-99a6-79be7c6a662e"
     },
     {
         "id": 2,
@@ -17,7 +17,7 @@
         "modelo": "#1097",
         "precio": 10700,
         "stock": 20,
-        "img": "funko flash.png"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-2022-faiella-emiliano.appspot.com/o/funko%20flash.png?alt=media&token=742b3197-4987-4909-8bef-fc2d5da335c4"
     },
     {
         "id": 3,
@@ -27,7 +27,7 @@
         "modelo": "#955",
         "precio": 9480,
         "stock": 15,
-        "img": "funko spiderman.png"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-2022-faiella-emiliano.appspot.com/o/funko%20spiderman.png?alt=media&token=dbfecf53-8ac3-43c3-a651-ca04191e2ba9"
     },
     {
         "id": 4,
@@ -37,7 +37,7 @@
         "modelo": "#957",
         "precio": 7600,
         "stock": 30,
-        "img": "funko octopus.png"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-2022-faiella-emiliano.appspot.com/o/funko%20octopus.png?alt=media&token=5fbeedba-fbf4-4dbd-9a0b-9a56f581da45"
     },
     {
         "id": 5,
@@ -47,7 +47,7 @@
         "modelo": "#1034",
         "precio": 10000,
         "stock": 7,
-        "img": "funko scarlet witch.png"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-2022-faiella-emiliano.appspot.com/o/funko%20scarlet%20witch.png?alt=media&token=a2c2f9ad-35a3-40dd-90eb-b1d1ce77b466"
     },
     {
         "id": 6,
@@ -57,7 +57,7 @@
         "modelo": "#511",
         "precio": 11100,
         "stock": 20,
-        "img": "funko star wars.png"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-2022-faiella-emiliano.appspot.com/o/funko%20star%20wars.png?alt=media&token=fc6609bf-fbe1-4ada-837f-c894d6bcf9a6"
     },
     {
         "id": 7,
@@ -67,7 +67,7 @@
         "modelo": "#303",
         "precio": 5100,
         "stock": 10,
-        "img": "funko harley.png"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-2022-faiella-emiliano.appspot.com/o/funko%20harley.png?alt=media&token=f8bd0f44-57a6-4a5a-a3e0-282b2e96b296"
     },
     {
         "id": 8,
@@ -77,7 +77,7 @@
         "modelo": "#628",
         "precio": 7900,
         "stock": 30,
-        "img": "funko jolteon.png"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-2022-faiella-emiliano.appspot.com/o/funko%20jolteon.png?alt=media&token=17a6ed1f-920e-4fb9-92f0-304d75f95371"
     },
     {
         "id": 9,
@@ -87,7 +87,7 @@
         "modelo": "#583",
         "precio": 14000,
         "stock": 21,
-        "img": "funko mewtwo.png"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-2022-faiella-emiliano.appspot.com/o/funko%20mewtwo.png?alt=media&token=cfeb9201-5815-47f6-90ee-0dafff322fb4"
     },
     {
         "id": 10,
@@ -97,7 +97,7 @@
         "modelo": "#627",
         "precio": 7900,
         "stock": 25,
-        "img": "funko vaporeon.png"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-2022-faiella-emiliano.appspot.com/o/funko%20vaporeon.png?alt=media&token=4d56528f-2f34-437c-9d25-1536b9abd474"
     },
     {
         "id": 11,
@@ -107,7 +107,7 @@
         "modelo": "#347",
         "precio": 10400,
         "stock": 30,
-        "img": "funko wonder woman.png"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-2022-faiella-emiliano.appspot.com/o/funko%20wonder%20woman.png?alt=media&token=3289e582-7f15-4b2e-a082-9df1fb9e53ab"
     },
     {
         "id": 12,
@@ -117,7 +117,7 @@
         "modelo": "#598",
         "precio": 10400,
         "stock": 20,
-        "img": "funko pikachu.png"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-2022-faiella-emiliano.appspot.com/o/funko%20pikachu.png?alt=media&token=403afd05-cc27-43aa-a707-38a28db1b93f"
     }
 
 ]

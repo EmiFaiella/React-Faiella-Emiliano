@@ -1,7 +1,8 @@
 import {useState, useEffect} from 'react';
 import { useParams } from 'react-router-dom';
-import ItemList from '../ItemList/itemList.jsx';
-import { consultarBDD } from '../../assets/funciones.js';
+import ItemList from '../itemList/itemList.jsx';
+//import { cargarBDD } from '../../assets/firebase.js';
+import {getProductos, getProducto, updateProducto} from '../../assets/firebase.js';
 const ItemListContainer = () => {
 
     const [productos, setProductos] = useState([]);
@@ -9,20 +10,19 @@ const ItemListContainer = () => {
 
     useEffect(() => {
             if(category) {
-                consultarBDD('../json/productos.json').then(products => {
+                getProductos().then(products => {
                     const productsList= products.filter(prod => prod.stock > 0).filter(prod => prod.idCategoria === parseInt(category))
                     const cardProductos = ItemList({productsList})
                     setProductos(cardProductos)
                 })
             } else {
-                consultarBDD('./json/productos.json').then(products => {
+                getProductos().then(products => {
                     const productsList= products.filter(prod => prod.stock > 0)
                     const cardProductos = ItemList({productsList})
                     setProductos(cardProductos)
                 })
             }
-            
-        
+           // cargarBDD().then(productos => console.log(productos))
     },[category]);
     
     return (
